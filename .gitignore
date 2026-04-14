@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.log
+*.png
+*.json
+scratch_*.py
+bot-profile/
+facebook-chrome-profile/*
+!facebook-chrome-profile/.gitkeep
