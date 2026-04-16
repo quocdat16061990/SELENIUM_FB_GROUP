@@ -1,0 +1,1 @@
+/home/ubuntu/SELENIUM_FB_GROUP/venv/bin/python: can't open file '/home/ubuntu/SELENIUM_FB_GROUP/OpenFBGroupPost.py': [Errno 2] No such file or directory
